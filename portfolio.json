@@ -1,13 +1,13 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
+  "name": "Muhammad Nofil Ansari",
+  "label": "Data Analyst",
   "image_path": "img/default-image.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "nofil.ansari2k3@outlook.com",
+    "phone": "03343051051",
+    "location": "Karachi, Sindh, Pakistan"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "I Analyze and Visualize Data using Python liberaries to extract insights and make data-driven decisions. I am passionate about transforming raw data into meaningful information that can drive business success.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -16,43 +16,16 @@
       "svg_path": "img/globe.svg"
     },
     {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "muhammad-nofil-ansari-2a4b8a200",
+      "url": "https://www.linkedin.com/in/muhammad-nofil-ansari-2a4b8a200/",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Nofil-Ansari",
+      "url": "https://github.com/Nofil-Ansari",
       "svg_path": "img/github.svg"
     }
-  ],
-  "work_experience": [
-    {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
-      "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
-    },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
-      ]
-    }
+  
   ],
   "projects": [
     {
@@ -134,37 +107,30 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "FAST-NUCES",
+      "location": "Shah Latif Town, Karachi",
+      "url": "https://khi.nu.edu.pk",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+        "Bs FinTech (Financial Technology)"
+      ]
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
+      "institution": "Highbrow College",
+      "location": "F block North Nazimabad Karachi",
       "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "degrees": ["A-levels"]
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python Programming  ",
+      "description": "including (Pandas, Numpy, Matplotlib, Seaborn)",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "Necessary DevOps",
+      "description": "Enviroment handling, Virtualization, Containerization (Dockers), Version control (Git) ",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     }
@@ -201,11 +167,11 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Urdu",
       "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
+      "language": "English",
       "fluency": "Professional Working Proficiency"
     }
   ],
