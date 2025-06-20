@@ -1,7 +1,7 @@
 {
   "name": "Muhammad Nofil Ansari",
   "label": "Data Analyst",
-  "image_path": "img/default-image.png",
+  "image_path": "https://avatars.githubusercontent.com/u/76415406?s=400&u=8c8dc7d005a7b86d2e472c1922382d72f67c2f43&v=4",
   "contact": {
     "email": "nofil.ansari2k3@outlook.com",
     "phone": "03343051051",
@@ -26,45 +26,33 @@
   "projects": [
     {
       "title": "Sea Level Predictor",
-      "summary": "Short summary about my first project",
+      "summary": "Sea Level Predictor is a Python project that uses linear regression to predict sea level rise based on historical data. It visualizes the data and predictions using Matplotlib.",
       "url": "https://github.com/Nofil-Ansari/Sea_Level_Predictor.git",
       
       "images": [
         {
           "img_path": "https://github.com/Nofil-Ansari/Sea_Level_Predictor/blob/main/sea_level_plot.png?raw=true",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "caption": "Line of Best Fit"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
+      "title": "Time Series Visualizer",
+      "summary": "Time Series Visualizer is a Python project that visualizes time series data using Matplotlib. It provides insights into trends and patterns in the data.",
+      "url": "https://github.com/Nofil-Ansari/Time_Series_Visualizer.git",
+      
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/bar_plot.png?raw=true",
+          "caption": "Bar Graph"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/box_plot.png",
+          "caption": "Box Plot"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/line_plot.png",
+          "caption": "Line Graph"
         }
       ]
     }
