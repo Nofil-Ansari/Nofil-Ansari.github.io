@@ -10,11 +10,7 @@
   "summary": "I Analyze and Visualize Data using Python liberaries to extract insights and make data-driven decisions. I am passionate about transforming raw data into meaningful information that can drive business success.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
-    {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
+    
     {
       "label": "muhammad-nofil-ansari-2a4b8a200",
       "url": "https://www.linkedin.com/in/muhammad-nofil-ansari-2a4b8a200/",
@@ -29,17 +25,13 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
+      "title": "Sea Level Predictor",
       "summary": "Short summary about my first project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
-      ],
+      "url": "https://github.com/Nofil-Ansari/Sea_Level_Predictor.git",
+      
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
+          "img_path": "https://github.com/Nofil-Ansari/Sea_Level_Predictor/blob/main/sea_level_plot.png?raw=true",
           "caption": "Image Caption 1"
         },
         {
