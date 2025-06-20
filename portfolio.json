@@ -47,15 +47,42 @@
           "caption": "Bar Graph"
         },
         {
-          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/box_plot.png",
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/box_plot.png?raw=true",
           "caption": "Box Plot"
         },
         {
-          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/line_plot.png",
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/line_plot.png?raw=true",
           "caption": "Line Graph"
         }
       ]
+    },
+    {
+      "title": "Medical Data Visualizer",
+      "summary": "Medical Data Visualizer is a Python project that uses Seaborn to create visualizations for medical datasets. It includes categorical plots and heatmaps to analyze relationships between variables.",
+      "url": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer.git",
+      "images": [
+        {
+          "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/catplot.png?raw=true",
+          "caption": "Categorical Plot" 
+        },
+        {
+          "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/heatmap.png?raw=true",
+          "caption": "Heatmap"
+        }
+      ]
+    },
+    {
+      "title": "Mean-Variance-Standard Deviation Analysis",
+      "summary": "Mean-Variance-Standard Deviation Analysis is a Python project that calculates and visualizes the mean, variance, and standard deviation of a dataset. It provides insights into the distribution and variability of the data.",
+      "url": "https://github.com/Nofil-Ansari/Mean_Variance_Standard_Deviation.git"
+
+    },
+    {
+      "title": "Demographic Data Analyzer",
+      "summary": "Demographic Data Analyzer is a Python project that analyzes demographic data using Pandas. It provides insights into various demographic factors and their relationships.",
+      "url": "https://github.com/Nofil-Ansari/Demographic_Data_Analyzer.git"
     }
+
   ],
   "volunteer_experience": [
     {
