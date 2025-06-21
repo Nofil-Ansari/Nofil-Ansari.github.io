@@ -124,8 +124,14 @@
     {
       "institution": "Highbrow College",
       "location": "F block North Nazimabad Karachi",
-      "url": "https://sample.com",
+      "url": "https://highbrow.edu.pk/",
       "degrees": ["A-levels"]
+    },
+    {
+      "institution": "Habib Public School",
+      "location": "Near PIDC, Saddar, Karachi",
+      "url": "https://habibschools.edu.pk/",
+      "degrees": ["O-levels"]
     }
   ],
   "skills": [
@@ -136,10 +142,16 @@
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "Necessary DevOps",
-      "description": "Enviroment handling, Virtualization, Containerization (Dockers), Version control (Git) ",
+      "name": "Linux system administration",
+      "description": "including file management, process management, and user management, remote access, and system monitoring.\n Have worked on various distributions like Ubuntu, Debian, Kali, Arch",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Git Version Control System",
+      "description":"Have strong grip on hosting the code on remote repositories, and to access it in numerous ways including cloning, using SSH Tunnels or using cloud based developer enviroments.",
+      "proficiency": 75,
+      "proficiency_label":"Proficiency Level"
     }
   ],
   "interests": [
