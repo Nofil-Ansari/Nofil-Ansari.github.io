@@ -137,21 +137,20 @@
   "skills": [
     {
       "name": "Python Programming  ",
-      "description": "including (Pandas, Numpy, Matplotlib, Seaborn)",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "description": "including (Pandas, Numpy, Matplotlib, Seaborn)"
+      
+
+      
     },
     {
       "name": "Linux system administration",
-      "description": "including file management, process management, and user management, remote access, and system monitoring.\n Have worked on various distributions like Ubuntu, Debian, Kali, Arch",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "description": "including file management, process management, and user management, remote access, and system monitoring.\n Have worked on various distributions like Ubuntu, Debian, Kali, Arch"
+      
     },
     {
       "name": "Git Version Control System",
-      "description":"Have strong grip on hosting the code on remote repositories, and to access it in numerous ways including cloning, using SSH Tunnels or using cloud based developer enviroments.",
-      "proficiency": 75,
-      "proficiency_label":"Proficiency Level"
+      "description":"Have strong grip on hosting the code on remote repositories, and to access it in numerous ways including cloning, using SSH Tunnels or using cloud based developer enviroments."
+      
     }
   ],
   "interests": [
