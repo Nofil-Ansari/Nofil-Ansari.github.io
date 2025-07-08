@@ -111,22 +111,6 @@
         "Third Duty of Previous Organization"
       ]
     }
-    ],
-    "certifications": [
-      [{
-        "name": "Data Analysis with Python",
-        "issuer": "FreeCodeCamp",
-        "issuer_logo": "https://www.freecodecamp.org/news/content/images/2020/04/freecodecamp-logo.png",
-        "credential_url": "https://www.freecodecamp.org/certification/fccc4f37844-6ed7-4f7d-8ac4-424bae6fb974/data-analysis-with-python-v7"
-      },
-      {
-        "name": "Python Programming",
-        "issuer": "HackerRank",
-        "issuer_logo": "https://www.hackerrank.com/assets/hackerrank-logo-2x.png",
-        "credential_url": "https://www.hackerrank.com/certificates/022ad7c4c010"
-        
-      }
-    ]
   ],
   "education": [
     {
@@ -166,7 +150,36 @@
       "description":"Have strong grip on hosting the code on remote repositories, and to access it in numerous ways including cloning, using SSH Tunnels or using cloud based developer enviroments."
       
     }
-  
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
   ],
   "languages": [
     {
@@ -176,6 +189,18 @@
     {
       "language": "English",
       "fluency": "Professional Working Proficiency"
-    }]}
-  
-
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
