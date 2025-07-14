@@ -84,30 +84,16 @@
     }],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
+      "organization": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/fccc4f37844-6ed7-4f7d-8ac4-424bae6fb974/data-analysis-with-python-v7",
+      "summary": "I have completed the Data Analysis with Python certification from FreeCodeCamp, which involved analyzing and visualizing data using Python libraries such as Pandas, Matplotlib, and Seaborn."
+    
     },
     {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
+      "organization": "HackerRank",
+      "url": "https://www.hackerrank.com/certificates/2b0c3f8d1e4a",
+      "summary": "I have completed the Python (Basic) certification from HackerRank, which involved solving various Python programming challenges and demonstrating proficiency in Python fundamentals."
+      
     }
   ],
     "education": [
