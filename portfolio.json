@@ -1,109 +1,87 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Muhammad Nofil Ansari",
+  "label": "Data Analyst",
+  "image_path": "https://avatars.githubusercontent.com/u/76415406?s=400&u=8c8dc7d005a7b86d2e472c1922382d72f67c2f43&v=4",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "nofil.ansari2k3@outlook.com",
+    "phone": "03343051051",
+    "location": "Karachi, Sindh, Pakistan"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "I Analyze and Visualize Data using Python liberaries to extract insights and make data-driven decisions. I am passionate about transforming raw data into meaningful information that can drive business success.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
+    
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "muhammad-nofil-ansari-2a4b8a200",
+      "url": "https://www.linkedin.com/in/muhammad-nofil-ansari-2a4b8a200/",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Nofil-Ansari",
+      "url": "https://github.com/Nofil-Ansari",
       "svg_path": "img/github.svg"
     }
-  ],
-  "work_experience": [
-    {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
-      "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
-    },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
-      ]
-    }
+  
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
-      ],
+      "title": "Sea Level Predictor",
+      "summary": "Sea Level Predictor is a Python project that uses linear regression to predict sea level rise based on historical data. It visualizes the data and predictions using Matplotlib.",
+      "url": "https://github.com/Nofil-Ansari/Sea_Level_Predictor.git",
+      
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "img_path": "https://github.com/Nofil-Ansari/Sea_Level_Predictor/blob/main/sea_level_plot.png?raw=true",
+          "caption": "Line of Best Fit"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
+      "title": "Time Series Visualizer",
+      "summary": "Time Series Visualizer is a Python project that visualizes time series data using Matplotlib. It provides insights into trends and patterns in the data.",
+      "url": "https://github.com/Nofil-Ansari/Time_Series_Visualizer.git",
+      
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/bar_plot.png?raw=true",
+          "caption": "Bar Graph"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/box_plot.png?raw=true",
+          "caption": "Box Plot"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/line_plot.png?raw=true",
+          "caption": "Line Graph"
         }
       ]
-    }
-  ],
+    },
+    {
+      "title": "Medical Data Visualizer",
+      "summary": "Medical Data Visualizer is a Python project that uses Seaborn to create visualizations for medical datasets. It includes categorical plots and heatmaps to analyze relationships between variables.",
+      "url": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer.git",
+      "images": [
+        {
+          "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/catplot.png?raw=true",
+          "caption": "Categorical Plot" 
+        },
+        {
+          "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/heatmap.png?raw=true",
+          "caption": "Heatmap"
+        }
+      ]
+    },
+    {
+      "title": "Mean-Variance-Standard Deviation Analysis",
+      "summary": "Mean-Variance-Standard Deviation Analysis is a Python project that calculates and visualizes the mean, variance, and standard deviation of a dataset. It provides insights into the distribution and variability of the data.",
+      "url": "https://github.com/Nofil-Ansari/Mean_Variance_Standard_Deviation.git"
+
+    },
+    {
+      "title": "Demographic Data Analyzer",
+      "summary": "Demographic Data Analyzer is a Python project that analyzes demographic data using Pandas. It provides insights into various demographic factors and their relationships.",
+      "url": "https://github.com/Nofil-Ansari/Demographic_Data_Analyzer.git"
+    }],
   "volunteer_experience": [
     {
       "organization": "Latest Organization",
@@ -132,83 +110,83 @@
       ]
     }
   ],
-  "education": [
+    "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "FAST-NUCES",
+      "location": "Shah Latif Town, Karachi",
+      "url": "https://khi.nu.edu.pk",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+        "Bs FinTech (Financial Technology)"
+      ]
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "Highbrow College",
+      "location": "F block North Nazimabad Karachi",
+      "url": "https://highbrow.edu.pk/",
+      "degrees": ["A-levels"]
+    },
+    {
+      "institution": "Habib Public School",
+      "location": "Near PIDC, Saddar, Karachi",
+      "url": "https://habibschools.edu.pk/",
+      "degrees": ["O-levels"]
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "Python Programming  "
+     
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "name": "Linux system administration"
+      
+    },
+    {
+      "name": "Git Version Control System"
+      
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Financial Literacy",
+      "summary": "I love to do Fundamental Analysis of diverse asset classes such as Stocks, Commodities, and Cryptocurrencies. I am passionate about understanding the financial markets and making informed investment decisions.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
+          "img_path": "https://unsplash.com/photos/green-plant-in-clear-glass-vase-ZVprbBmT8QA",
+          "caption": "learning how to grow wealth"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "https://unsplash.com/photos/calendar-VbdUnqoe5UU",
+          "caption": "Learning fund allocation and spending habits"
         }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "Reading",
+      "summary": "I love to read Newspapers, books, and articles. My favourite genres include, Religion, Cybersecurity, and Financial Technologies. I enjoy exploring new ideas and gaining knowledge through reading.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
+          "img_path": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-laptop-and-a-cup-of-coffee-uNBwPxVBRGE",
+          "caption": "Policy and Governance through Newspapers"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "https://unsplash.com/photos/person-holding-string-lights-on-opened-book-9pw4TKvT3po",
+          "caption": "Reading books on Cybersecurity and Financial Technologies"
         }
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Urdu",
       "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
+      "language": "English",
       "fluency": "Professional Working Proficiency"
     }
   ],
+  
   "references": [
     {
       "name": "Person One",
