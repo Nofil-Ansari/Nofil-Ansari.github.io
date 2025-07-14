@@ -130,7 +130,10 @@
     {
       "name": "Git Version Control System"
       
-    }
+    },
+    {
+      "name": "DEVOPS (Dockers, SSH tunneling, virtual enviroments, dependency management)"}
+
   ],
   "interests": [
     {
